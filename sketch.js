@@ -30,8 +30,6 @@ function draw() {
   rectMode(CENTER);
   background(0);
 
-  keyPressed();
-
   paper.display();
   dustbin1.display();
   dustbin2.display();
